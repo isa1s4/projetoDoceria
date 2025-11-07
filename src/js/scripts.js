@@ -5,7 +5,7 @@
 let imagens=[
     'src/assets/ibarista com cafe.jpg',
     'src/assets/barista.jpg',
-    'src/assets/cafeteria.jpg',
+    'src/assets/cafeteria.jpg'
 ];
 //DECLARANDO AS VARAIVEIS
 let i =0;
