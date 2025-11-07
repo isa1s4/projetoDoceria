@@ -9,11 +9,11 @@ document.addEventListener('DOMContentLoaded', () => {
     const reiniciarBotao = document.getElementById('inicio-btn');
 
     const questions = [
-        "Qual o tipo de serviço que você procura?",
-        "Descreva brevemente suas necessidades:",
-        "Qual o seu prazo ideal?",
-        "Qual o seu orçamento estimado?",
-        "Como podemos entrar em contato com você (e-mail ou telefone)?",
+        "Qual o tipo de café?",
+        "Qual o tamanho desejado (pequeno, médio, grande)?",
+        "Qual o acompanhamento desejado (ex: doce, salgado)?",
+        "deseja alguma personalização especial?",
+        "informe o nome para o pedido:",
     ];
 
     let pertuntas = 0;
